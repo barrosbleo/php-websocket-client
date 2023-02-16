@@ -1,0 +1,9 @@
+html, body{
+    background-color:#414141;
+    font-family:Arial;
+    font-size:12px;
+}
+
+.userInfos{
+    font-weight: bold !important;
+}
